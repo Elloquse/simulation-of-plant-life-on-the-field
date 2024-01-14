@@ -1,2 +1,3 @@
-# simulation-of-plant-life-on-the-field
-Training simulation of plant life on the field written in Python
+Simulation of plant life on the field during selected time
+---
+Тренировочное задание на чтение списка и характеристики растений из excel файла, генерации на основании данных растений-объектов, их рассаживание на клетки поля по приоритету (доступность света, качества почвы) от подходящих до неподходящих. Расчет развития растений после их рассадки и вывод статистики. 
